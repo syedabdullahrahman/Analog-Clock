@@ -1,1 +1,3 @@
-Basic Analog Clock
+Analog Clock
+
+Features : Time, Date,Month
